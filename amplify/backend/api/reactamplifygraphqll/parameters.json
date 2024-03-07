@@ -1,5 +1,6 @@
 {
   "AppSyncApiName": "reactamplifygraphqll",
   "DynamoDBBillingMode": "PAY_PER_REQUEST",
-  "DynamoDBEnableServerSideEncryption": false
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthModeLastUpdated": "2024-03-07T23:01:46.587Z"
 }
