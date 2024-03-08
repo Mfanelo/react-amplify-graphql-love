@@ -1,0 +1,14 @@
+{
+  "resourceName": "imgstore",
+  "policyUUID": "a655c419",
+  "bucketName": "img-react-bucket",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
